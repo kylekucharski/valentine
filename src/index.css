@@ -16,9 +16,11 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
 body {
-  background: url("./assets/bg1.webp");
+  background: url("./assets/seamless-vector-pattern-pink-bows-600nw-2433382567.png");
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
 }
+
